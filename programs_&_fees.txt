@@ -1,0 +1,32 @@
+IT-RELATED BACHELOR PROGRAMS OVERVIEW
+
+1. BSc. CSIT (Bachelor of Science in Computer Science and Information Technology)
+- Affiliating University: Tribhuvan University (TU)
+- Duration: 4 years (8 semesters)
+- Focus: Strong theoretical foundation in computer science - data structures, algorithms, operating systems, computer networks, AI, machine learning, and a mandatory entrance exam.
+- Entrance: TU CSIT entrance exam (Physics, Chemistry, Math, English, IQ).
+
+2. BIT (Bachelor of Information Technology)
+- Affiliating University: Purbanchal University (PU) or similar
+- Duration: 4 years
+- Focus: More application/industry oriented, covers programming, web/mobile development, database systems, and IT project management.
+
+3. BCA (Bachelor of Computer Application)
+- Affiliating University: TU, PU
+- Duration: 4 years
+- Focus: Application development, software engineering, business computing.
+
+4. BE Computer Engineering
+- Affiliating University: TU (IOE), Pokhara University
+- Duration: 4 years
+- Focus: Hardware + software, embedded systems, along with core programming and networking.
+
+5. Approximate Fee Range (illustrative, varies by college and changes yearly - always confirm directly with the college)
+- Community/government-affiliated colleges: lower fees, often NPR 3-6 lakhs total for the whole program.
+- Private colleges: NPR 6-12+ lakhs total for the whole program, depending on facilities and location.
+- Additional costs: lab fees, project fees, industrial tour, exam fees per semester.
+
+6. Choosing Between Programs
+- If interested in research, AI/ML, or higher studies abroad: BSc.CSIT or BE Computer are generally preferred due to stronger theoretical base.
+- If interested in quick industry entry as a developer: BIT/BCA offer more hands-on, practical exposure.
+- Always check the specific college's syllabus and industry tie-ups since quality varies significantly between colleges even under the same affiliating university.

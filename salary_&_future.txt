@@ -1,0 +1,27 @@
+IT SALARY TRENDS AND FUTURE OUTLOOK (General Reference - Actual figures vary by country/company/experience, verify with live web search for latest numbers)
+
+1. Nepal IT Job Market (Illustrative Ranges, entry to mid-level, local companies)
+- Junior Software Developer: NPR 25,000 - 50,000/month
+- Mid-level Developer (2-4 yrs exp): NPR 50,000 - 90,000/month
+- Senior Developer / Team Lead: NPR 90,000 - 1,50,000+/month
+- Data/AI roles tend to command a premium over standard web development roles due to skill scarcity.
+- Remote work for foreign companies or freelancing can pay significantly higher (often 2-5x local rates) but requires strong English communication and portfolio.
+
+2. Global/International Trends (General direction - always verify current numbers)
+- AI/ML Engineers and GenAI/LLM specialists are among the highest-paid and most in-demand roles globally as of the mid-2020s.
+- Cloud and DevOps engineers remain consistently high-demand due to continued cloud migration.
+- Cybersecurity remains a critical shortage area worldwide, driving strong compensation.
+- Full-stack developers remain broadly employable across company sizes.
+
+3. Future Outlook for IT Careers
+- Generative AI and LLM-based applications (chatbots, RAG systems, AI agents) are reshaping software development - familiarity with tools like LangChain, LangGraph, vector databases, and prompt engineering is increasingly valuable.
+- Low-code/no-code tools are automating simpler development tasks, pushing developers toward more complex system design, AI integration, and architecture roles.
+- Soft skills (communication, problem-solving, teamwork) combined with technical skills are increasingly valued as AI automates routine coding tasks.
+- Continuous learning is essential - the half-life of specific technical skills is shrinking, so foundational computer science concepts plus adaptability matter more than any single tool.
+- Remote work and global hiring continue to open opportunities for developers in Nepal and other countries to work for international companies without relocating.
+
+4. How to Stay Competitive
+- Build a portfolio of real projects (GitHub, personal website) rather than relying only on academic certificates.
+- Contribute to open source or build end-to-end applications (like AI-powered tools, RAG systems, or automation agents) to demonstrate practical skill.
+- Get relevant certifications (AWS/Azure/GCP, CompTIA, Google Data Analytics, etc.) to validate skills to employers.
+- Network actively - LinkedIn presence, tech meetups, hackathons, and internships significantly improve job prospects.
