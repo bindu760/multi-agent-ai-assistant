@@ -1,0 +1,34 @@
+IT CAREER PATHS - OVERVIEW
+
+1. Software Development
+Roles: Frontend Developer, Backend Developer, Full-Stack Developer, Mobile App Developer.
+Skills needed: Programming languages (JavaScript, Python, Java, C#), frameworks (React, Node.js, Django, Spring), version control (Git), REST APIs, databases.
+Growth path: Junior Developer -> Mid-level -> Senior Developer -> Tech Lead -> Engineering Manager / Staff Engineer.
+
+2. Data Science / AI / Machine Learning
+Roles: Data Analyst, Data Scientist, Machine Learning Engineer, AI Engineer, LLM/GenAI Engineer.
+Skills needed: Python, statistics, SQL, ML frameworks (scikit-learn, PyTorch, TensorFlow), data visualization, and increasingly LLM tooling (LangChain, LangGraph, RAG systems, prompt engineering, vector databases).
+Growth path: Data Analyst -> Data Scientist -> Senior Data Scientist / ML Engineer -> Lead Data Scientist / AI Architect.
+This is currently one of the fastest-growing fields globally due to the rise of generative AI applications.
+
+3. Cloud Computing and DevOps
+Roles: Cloud Engineer, DevOps Engineer, Site Reliability Engineer (SRE), Cloud Architect.
+Skills needed: AWS/Azure/GCP, Docker, Kubernetes, CI/CD pipelines, Infrastructure as Code (Terraform), monitoring tools.
+High demand as more companies migrate to cloud infrastructure.
+
+4. Cybersecurity
+Roles: Security Analyst, Penetration Tester, Security Engineer, SOC Analyst, CISO (senior level).
+Skills needed: Networking fundamentals, ethical hacking tools, security certifications (CompTIA Security+, CEH, OSCP), knowledge of compliance frameworks.
+Growing demand due to increasing cyber threats worldwide.
+
+5. Product and Project Management (Tech)
+Roles: Technical Project Manager, Product Manager, Scrum Master.
+Skills needed: Agile/Scrum methodology, stakeholder communication, basic technical understanding, product analytics.
+Good path for engineers who want to move into leadership/strategy roles rather than staying purely technical.
+
+6. QA / Software Testing
+Roles: Manual Tester, QA Automation Engineer, Test Lead.
+Skills needed: Test case design, automation tools (Selenium, Cypress, Playwright), understanding of SDLC/STLC.
+
+7. Remote/Freelance IT Work
+Many IT professionals, especially from Nepal, work remotely for international clients or companies via platforms like Upwork, Toptal, or direct remote employment with foreign companies, often earning significantly higher than local market rates.
